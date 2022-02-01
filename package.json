@@ -46,8 +46,8 @@
   },
   "dependencies": {
     "@types/axios": "^0.14.0",
-    "arweave": "^1.10.11",
-    "axios": "^0.21.1",
-    "smartweave": "^0.4.27"
+    "arweave": "^1.10.23",
+    "axios": "^0.25.0",
+    "smartweave": "^0.4.46"
   }
 }
